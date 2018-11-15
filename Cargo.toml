@@ -1,5 +1,7 @@
 [workspace]
 
 members = [
-  "helloworld"
+  "helloworld",
+  "mutability",
+  "ownership"
 ]
